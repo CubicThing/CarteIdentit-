@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1519293024 source:c:\users\dancy\documents\codeblocks\carteidentite\main.c
+	<stdio.h>
+	<stdlib.h>
+
